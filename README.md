@@ -16,7 +16,7 @@ Client: Arguments:
 
 5 - ID - If it's an existing client from another connection - you need to insert his unique ID.
 
-The code is a bit messy (not modular) because the instructor's demand was to upload only client and server files
+*Side Note:The code is a bit messy (not modular) because the instructor's demand was to upload only client and server files
 
 https://user-images.githubusercontent.com/84729141/164456881-eeb0a037-dae9-4c93-98e1-0d554d80d8b0.mp4
 
