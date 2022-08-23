@@ -1,14 +1,5 @@
 
-
-   ____ _                 _   ____  _                 _       _             
-  / ___| | ___  _   _  __| | / ___|(_)_ __ ___  _   _| | __ _| |_ ___  _ __ 
- | |   | |/ _ \| | | |/ _` | \___ \| | '_ ` _ \| | | | |/ _` | __/ _ \| '__|
- | |___| | (_) | |_| | (_| |  ___) | | | | | | | |_| | | (_| | || (_) | |   
-  \____|_|\___/ \__,_|\__,_| |____/|_|_| |_| |_|\__,_|_|\__,_|\__\___/|_|   
-                                                                            
-
-                                                                              
-
+Cloud Simulator
 
 A client-server, TCP based, file transfer algorithm that maintains constantly updated folders on different computers, built using Python's WatchDog library. The program "links" end-users together and keeps the end-users' folders as if it was a cloud system that is constantly updated and can be accessed from anywhere.  The logic of the program uses "manual ACKs" that were added to seperate parts of the process and maintain an order of commands executed.
 
