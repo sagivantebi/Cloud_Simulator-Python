@@ -1,4 +1,4 @@
-A client-server, TCP based, file transfer algorithm that maintains constantly updated folders on different computers, built using Python's WatchDog library. The program "links" end-users together and keeps the end-users' folders as if it was a cloud system that is constantly updated and can be accessed from anywhere.  The logic of the program uses "manual ACKs" that were added to seperate parts of the process and maintain an order of commands executed.
+A client-server, TCP-based, file transfer algorithm that maintains constantly updated folders on different computers, built using Python's WatchDog library. The program "links" end-users together and keeps the end-users folders as if it was a cloud system that is constantly updated and can be accessed from anywhere.  The logic of the program uses "manual ACKs" that were added to separate parts of the process and maintain the order of commands executed.
 
 ![Cloud-Server](https://user-images.githubusercontent.com/84729141/186115962-f223efd7-78b2-4341-bbe8-3c9a14e25777.jpeg)
 
